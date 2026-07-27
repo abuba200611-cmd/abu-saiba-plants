@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abu-saiba-plants.example.com/sitemap.xml
