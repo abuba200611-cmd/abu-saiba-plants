@@ -605,7 +605,7 @@ h2.section-title{ font-size: clamp(1.6rem, 1.2rem + 1.6vw, 2.5rem); }
   box-shadow: var(--shadow-lg); border:none; cursor:pointer; transition: transform var(--dur-fast) var(--ease), opacity var(--dur-med) var(--ease);
 }
 .fab svg{ width:26px;height:26px; }
-.fab-wa{ background: var(--c-whatsapp); color:#fff; }
+.fab-contact{ background: var(--c-whatsapp); color:#fff; }
 .fab-top{ background: var(--c-surface); color: var(--c-primary); border:1px solid var(--c-border); width:48px;height:48px; opacity:0; pointer-events:none; transform: translateY(10px); }
 .fab-top.is-visible{ opacity:1; pointer-events:auto; transform: translateY(0); }
 .fab:hover{ transform: translateY(-4px) scale(1.05); }
